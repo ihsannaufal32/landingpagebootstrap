@@ -1,14 +1,25 @@
 body{
     background-color: #212121;
 }
+
 h1{
     color: white;
-    margin-top: 20px;
-    text-align: center;
 }
-#foot{
+#fotfot{
+    bottom: 0;
+    width: 100%;
     text-align: center;
+    position: fixed;
 }
+
 #judul{
     margin-right: 100px;
+}
+
+#login{
+    width: 20rem;
+}
+
+#content{
+    margin-top: 20px;
 }
